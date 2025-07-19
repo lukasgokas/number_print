@@ -1,2 +1,2 @@
 for i in range(500):
-    print(i)
+    print("print", i)
